@@ -1,0 +1,126 @@
+\documentclass[preprint, 3p,
+authoryear]{elsarticle} %review=doublespace preprint=single 5p=2 column
+%%% Begin My package additions %%%%%%%%%%%%%%%%%%%
+
+\usepackage[hyphens]{url}
+
+  \journal{Energy Economics} % Sets Journal name
+
+\usepackage{graphicx}
+%%%%%%%%%%%%%%%% end my additions to header
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+% TODO: Currently lineno needs to be loaded after amsmath because of conflict
+% https://github.com/latex-lineno/lineno/issues/5
+\usepackage{lineno} % add
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \ifxetex
+    \usepackage{xltxtra,xunicode}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\usepackage[]{natbib}
+\bibliographystyle{elsarticle-harv}
+
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets post-Fit for 55 and RePowerEU},
+            colorlinks=false,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+
+\setcounter{secnumdepth}{5}
+% Pandoc toggle for numbering sections (defaults to be off)
+
+
+% tightlist command for lists without linebreak
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+
+\usepackage{subcaption, float, adjustbox}
+
+
+
+\begin{document}
+
+
+\begin{frontmatter}
+
+  \title{European Carbon Market Connectedness and Risk Contagion: A
+Study of Return and Volatility Dynamics Between European Union
+Allowances (EUAs) and Financial Markets post-Fit for 55 and RePowerEU}
+    \author[cisl,sigma]{Carlos Arcilla Barrera%
+  %
+  }
+   \ead{ca577@cantab.ac.uk} 
+    \author[cam]{Emre Usenmez%
+  \corref{cor1}%
+  }
+   \ead{eu229@cam.ac.uk} 
+      \affiliation[cisl]{
+    organization={University of Cambridge Institute for Sustainability
+Leadership},addressline={1 Regent Street},city={Cambridge},postcode={CB2
+1GG},country={UK},}
+    \affiliation[sigma]{
+    organization={Sigma Advanced Capital Management},addressline={203
+North LeSalle Dr, Suite
+2110},city={Chicago},postcode={60601},country={USA},}
+    \affiliation[cam]{
+    organization={Gonville \& Caius College, University of
+Cambridge},addressline={Trinity Street},city={Cambridge},postcode={CB2
+1TA},country={UK},}
+    \cortext[cor1]{Corresponding author}
+  
+  \begin{abstract}
+  This paper uses Diebold-Yilmaz model to analyze the return and
+  volatility connectedness between the European carbon market and the
+  financial markets from the commencement of the 3rd phase of the EU
+  emissions trading system in 2013 to August 2024 in order to ascertain
+  the impact of both exogenous shocks and the recent reforms introduced
+  under the Fit for 55 package and RePowerEU Plan. We examine the static
+  and dynamic characteristics of the connectedness network and find that
+  the return and volatility behavior of the European carbon market are
+  primarily driven by their own fundamental factors, thus largely
+  independent of other financial markets, except for coal and natural
+  gas, and except during periods of financial stress where a relatively
+  short-lived increase in the connectedness with other financial markets
+  is observed.
+  \end{abstract}
+    \begin{keyword}
+    Carbon markets \sep emissions trading system \sep connectedness
+measures \sep 
+    system risk
+  \end{keyword}
+  
+ \end{frontmatter}
+
+
+
+\bibliography{EUAbibliography.bib}
+
+
+\end{document}
