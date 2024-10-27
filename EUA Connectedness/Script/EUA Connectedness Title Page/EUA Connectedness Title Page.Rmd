@@ -1,0 +1,36 @@
+---
+title: "European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets post-Fit for 55 and RePowerEU"
+author:
+  - name: Carlos Arcilla Barrera
+    email: ca577@cantab.ac.uk
+    affiliation: cisl,sigma
+  - name: Emre Usenmez
+    email: eu229@cam.ac.uk
+    affiliation: cam
+    correspondingauthor: true
+address:
+  - code: cisl
+    organization: University of Cambridge Institute for Sustainability Leadership
+    addressline: 1 Regent Street
+    city: Cambridge
+    postcode: CB2 1GG
+    country: UK
+  - code: sigma
+    organization: Sigma Advanced Capital Management
+    addressline: 203 North LeSalle Dr, Suite 2110
+    city: Chicago
+    postcode: 60601
+    country: USA
+  - code: cam
+    organization: Gonville & Caius College, University of Cambridge
+    addressline: Trinity Street
+    postcode: CB2 1TA
+    city: Cambridge
+    country: UK
+journal: "Energy Economics"
+date: "`r Sys.Date()`"
+output: 
+  rticles::elsevier_article:
+    keep_tex: true
+    citation_package: natbib
+---
