@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  15 FEB 2025 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  17 FEB 2025 06:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -525,7 +525,7 @@ Overfull \hbox (2.22221pt too wide) has occurred while \output is active
 [2]
 
 [3]
-<./figures/1EUAPrice.png, id=566, 432.11438pt x 255.20343pt>
+<./figures/1EUAPrice.png, id=389, 432.11438pt x 255.20343pt>
 File: ./figures/1EUAPrice.png Graphic file (type png)
 <use ./figures/1EUAPrice.png>
 Package pdftex.def Info: ./figures/1EUAPrice.png  used on input line 357.
@@ -549,6 +549,10 @@ Overfull \hbox (21.36565pt too wide) in paragraph at lines 411--425
 [6{/Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 [7]
+
+LaTeX Warning: Reference `apdx:ConnMatrix' on page 8 undefined on input line 577.
+
+
 Overfull \hbox (2.22221pt too wide) in paragraph at lines 598--610
 []$[]$ $[]$ 
  []
@@ -556,12 +560,12 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 598--610
 
 
 [8]
-<./figures/2aDynRetTCI.png, id=731, 504.38437pt x 301.8778pt>
+<./figures/2aDynRetTCI.png, id=553, 504.38437pt x 301.8778pt>
 File: ./figures/2aDynRetTCI.png Graphic file (type png)
 <use ./figures/2aDynRetTCI.png>
 Package pdftex.def Info: ./figures/2aDynRetTCI.png  used on input line 661.
 (pdftex.def)             Requested size: 351.0pt x 210.07854pt.
-<./figures/2bDynVolTCI.png, id=732, 529.22719pt x 297.36093pt>
+<./figures/2bDynVolTCI.png, id=554, 529.22719pt x 297.36093pt>
 File: ./figures/2bDynVolTCI.png Graphic file (type png)
 <use ./figures/2bDynVolTCI.png>
 Package pdftex.def Info: ./figures/2bDynVolTCI.png  used on input line 670.
@@ -569,12 +573,15 @@ Package pdftex.def Info: ./figures/2bDynVolTCI.png  used on input line 670.
 
 
 [9 <./figures/2aDynRetTCI.png>]
-<./figures/3aDynRetNDC.png, id=742, 646.66594pt x 326.72063pt>
+
+LaTeX Warning: Reference `apdx:NDC' on page 10 undefined on input line 685.
+
+<./figures/3aDynRetNDC.png, id=564, 646.66594pt x 326.72063pt>
 File: ./figures/3aDynRetNDC.png Graphic file (type png)
 <use ./figures/3aDynRetNDC.png>
 Package pdftex.def Info: ./figures/3aDynRetNDC.png  used on input line 706.
 (pdftex.def)             Requested size: 351.0pt x 177.33882pt.
-<./figures/3bDynVolNDC.png, id=743, 724.20563pt x 314.67563pt>
+<./figures/3bDynVolNDC.png, id=565, 724.20563pt x 314.67563pt>
 File: ./figures/3bDynVolNDC.png Graphic file (type png)
 <use ./figures/3bDynVolNDC.png>
 Package pdftex.def Info: ./figures/3bDynVolNDC.png  used on input line 715.
@@ -582,12 +589,12 @@ Package pdftex.def Info: ./figures/3bDynVolNDC.png  used on input line 715.
 
 
 [10 <./figures/2bDynVolTCI.png> <./figures/3aDynRetNDC.png>]
-<./figures/4aStatRetPCI.png, id=755, 420.82219pt x 360.59718pt>
+<./figures/4aStatRetPCI.png, id=577, 420.82219pt x 360.59718pt>
 File: ./figures/4aStatRetPCI.png Graphic file (type png)
 <use ./figures/4aStatRetPCI.png>
 Package pdftex.def Info: ./figures/4aStatRetPCI.png  used on input line 770.
 (pdftex.def)             Requested size: 280.80286pt x 240.61945pt.
-<./figures/4bStatVolPCI.png, id=756, 420.82219pt x 349.305pt>
+<./figures/4bStatVolPCI.png, id=578, 420.82219pt x 349.305pt>
 File: ./figures/4bStatVolPCI.png Graphic file (type png)
 <use ./figures/4bStatVolPCI.png>
 Package pdftex.def Info: ./figures/4bStatVolPCI.png  used on input line 779.
@@ -597,12 +604,15 @@ Package pdftex.def Info: ./figures/4bStatVolPCI.png  used on input line 779.
 [11 <./figures/3bDynVolNDC.png>]
 
 [12 <./figures/4aStatRetPCI.png> <./figures/4bStatVolPCI.png>]
-<./figures/5aDynRetPCI.png, id=791, 569.12625pt x 257.46187pt>
+
+LaTeX Warning: Reference `apdx:PCI' on page 13 undefined on input line 828.
+
+<./figures/5aDynRetPCI.png, id=611, 569.12625pt x 257.46187pt>
 File: ./figures/5aDynRetPCI.png Graphic file (type png)
 <use ./figures/5aDynRetPCI.png>
 Package pdftex.def Info: ./figures/5aDynRetPCI.png  used on input line 840.
 (pdftex.def)             Requested size: 421.19714pt x 190.55022pt.
-<./figures/5bDynVolPCI.png, id=792, 450.9347pt x 199.49532pt>
+<./figures/5bDynVolPCI.png, id=612, 450.9347pt x 199.49532pt>
 File: ./figures/5bDynVolPCI.png Graphic file (type png)
 <use ./figures/5bDynVolPCI.png>
 Package pdftex.def Info: ./figures/5bDynVolPCI.png  used on input line 849.
@@ -613,704 +623,13 @@ Package pdftex.def Info: ./figures/5bDynVolPCI.png  used on input line 849.
 
 [14 <./figures/5bDynVolPCI.png>]
 
+LaTeX Warning: Reference `apdx:Robust' on page 15 undefined on input line 937.
+
+
+
 [15]
 
-[16]
-<./figures/6aApdxB-DynRetNDCfull.png, id=829, 803.0pt x 602.25pt>
-File: ./figures/6aApdxB-DynRetNDCfull.png Graphic file (type png)
-<use ./figures/6aApdxB-DynRetNDCfull.png>
-Package pdftex.def Info: ./figures/6aApdxB-DynRetNDCfull.png  used on input line 1083.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1083--1084
-[][] 
- []
-
-<./figures/6bApdxB-DynVolNDCfull.png, id=830, 803.0pt x 602.25pt>
-File: ./figures/6bApdxB-DynVolNDCfull.png Graphic file (type png)
-<use ./figures/6bApdxB-DynVolNDCfull.png>
-Package pdftex.def Info: ./figures/6bApdxB-DynVolNDCfull.png  used on input line 1092.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1092--1093
-[][] 
- []
-
-
-
-[17
-
-]
-
-[18]
-Overfull \vbox (33.21944pt too high) has occurred while \output is active []
-
-
-
-[19 <./figures/6aApdxB-DynRetNDCfull.png>]
-
-[20 <./figures/6bApdxB-DynVolNDCfull.png>]
-<./figures/7aApdxC-DynRetPCIfull.png, id=853, 803.0pt x 602.25pt>
-File: ./figures/7aApdxC-DynRetPCIfull.png Graphic file (type png)
-<use ./figures/7aApdxC-DynRetPCIfull.png>
-Package pdftex.def Info: ./figures/7aApdxC-DynRetPCIfull.png  used on input line 1106.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1106--1107
-[][] 
- []
-
-<./figures/7bApdxC-DynVolPCIfull.png, id=854, 803.0pt x 602.25pt>
-File: ./figures/7bApdxC-DynVolPCIfull.png Graphic file (type png)
-<use ./figures/7bApdxC-DynVolPCIfull.png>
-Package pdftex.def Info: ./figures/7bApdxC-DynVolPCIfull.png  used on input line 1115.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1115--1116
-[][] 
- []
-
-
-
-[21 <./figures/7aApdxC-DynRetPCIfull.png>]
-
-LaTeX Warning: Text page 22 contains only floats.
-
-
-
-[22 <./figures/7bApdxC-DynVolPCIfull.png>]
-<./figures/8aApdxD-10-180-RetNDC.png, id=867, 803.0pt x 602.25pt>
-File: ./figures/8aApdxD-10-180-RetNDC.png Graphic file (type png)
-<use ./figures/8aApdxD-10-180-RetNDC.png>
-Package pdftex.def Info: ./figures/8aApdxD-10-180-RetNDC.png  used on input line 1180.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1180--1181
-[][] 
- []
-
-<./figures/8bApdxD-10-180-VolNDC.png, id=868, 803.0pt x 602.25pt>
-File: ./figures/8bApdxD-10-180-VolNDC.png Graphic file (type png)
-<use ./figures/8bApdxD-10-180-VolNDC.png>
-Package pdftex.def Info: ./figures/8bApdxD-10-180-VolNDC.png  used on input line 1188.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1188--1189
-[][] 
- []
-
-
-
-[23]
-
-[24]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[25 <./figures/8aApdxD-10-180-RetNDC.png>]
-<./figures/9aApdxD-10-180-RetNtwrk.png, id=885, 803.0pt x 602.25pt>
-File: ./figures/9aApdxD-10-180-RetNtwrk.png Graphic file (type png)
-<use ./figures/9aApdxD-10-180-RetNtwrk.png>
-Package pdftex.def Info: ./figures/9aApdxD-10-180-RetNtwrk.png  used on input line 1199.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/9bApdxD-10-180-VolNtwrk.png, id=886, 803.0pt x 602.25pt>
-File: ./figures/9bApdxD-10-180-VolNtwrk.png Graphic file (type png)
-<use ./figures/9bApdxD-10-180-VolNtwrk.png>
-Package pdftex.def Info: ./figures/9bApdxD-10-180-VolNtwrk.png  used on input line 1203.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1198--1205
-[]$[]$  $[]$ 
- []
-
-
-
-[26 <./figures/8bApdxD-10-180-VolNDC.png>]
-
-[27 <./figures/9aApdxD-10-180-RetNtwrk.png> <./figures/9bApdxD-10-180-VolNtwrk.png>]
-<./figures/10aApdxD-10-180-RetPCI.png, id=901, 803.0pt x 602.25pt>
-File: ./figures/10aApdxD-10-180-RetPCI.png Graphic file (type png)
-<use ./figures/10aApdxD-10-180-RetPCI.png>
-Package pdftex.def Info: ./figures/10aApdxD-10-180-RetPCI.png  used on input line 1218.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1218--1219
-[][] 
- []
-
-<./figures/10bApdxD-10-180-VolPCI.png, id=902, 803.0pt x 602.25pt>
-File: ./figures/10bApdxD-10-180-VolPCI.png Graphic file (type png)
-<use ./figures/10bApdxD-10-180-VolPCI.png>
-Package pdftex.def Info: ./figures/10bApdxD-10-180-VolPCI.png  used on input line 1226.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1226--1227
-[][] 
- []
-
-
-
-[28 <./figures/10aApdxD-10-180-RetPCI.png>]
-
-LaTeX Warning: Text page 29 contains only floats.
-
-
-
-[29 <./figures/10bApdxD-10-180-VolPCI.png>]
-<./figures/11aApdxD-10-220-RetNDC.png, id=915, 803.0pt x 602.25pt>
-File: ./figures/11aApdxD-10-220-RetNDC.png Graphic file (type png)
-<use ./figures/11aApdxD-10-220-RetNDC.png>
-Package pdftex.def Info: ./figures/11aApdxD-10-220-RetNDC.png  used on input line 1291.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1291--1292
-[][] 
- []
-
-<./figures/11bApdxD-10-220-VolNDC.png, id=916, 803.0pt x 602.25pt>
-File: ./figures/11bApdxD-10-220-VolNDC.png Graphic file (type png)
-<use ./figures/11bApdxD-10-220-VolNDC.png>
-Package pdftex.def Info: ./figures/11bApdxD-10-220-VolNDC.png  used on input line 1299.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1299--1300
-[][] 
- []
-
-
-
-[30]
-
-[31]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[32 <./figures/11aApdxD-10-220-RetNDC.png>]
-<./figures/12aApdxD-10-220-RetNtwrk.png, id=933, 803.0pt x 602.25pt>
-File: ./figures/12aApdxD-10-220-RetNtwrk.png Graphic file (type png)
-<use ./figures/12aApdxD-10-220-RetNtwrk.png>
-Package pdftex.def Info: ./figures/12aApdxD-10-220-RetNtwrk.png  used on input line 1310.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/12bApdxD-10-220-VolNtwrk.png, id=934, 803.0pt x 602.25pt>
-File: ./figures/12bApdxD-10-220-VolNtwrk.png Graphic file (type png)
-<use ./figures/12bApdxD-10-220-VolNtwrk.png>
-Package pdftex.def Info: ./figures/12bApdxD-10-220-VolNtwrk.png  used on input line 1314.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1309--1316
-[]$[]$  $[]$ 
- []
-
-
-
-[33 <./figures/11bApdxD-10-220-VolNDC.png>]
-
-[34 <./figures/12aApdxD-10-220-RetNtwrk.png> <./figures/12bApdxD-10-220-VolNtwrk.png>]
-<./figures/13aApdxD-10-220-RetPCI.png, id=948, 803.0pt x 602.25pt>
-File: ./figures/13aApdxD-10-220-RetPCI.png Graphic file (type png)
-<use ./figures/13aApdxD-10-220-RetPCI.png>
-Package pdftex.def Info: ./figures/13aApdxD-10-220-RetPCI.png  used on input line 1329.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1329--1330
-[][] 
- []
-
-<./figures/13bApdxD-10-220-VolPCI.png, id=949, 803.0pt x 602.25pt>
-File: ./figures/13bApdxD-10-220-VolPCI.png Graphic file (type png)
-<use ./figures/13bApdxD-10-220-VolPCI.png>
-Package pdftex.def Info: ./figures/13bApdxD-10-220-VolPCI.png  used on input line 1337.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1337--1338
-[][] 
- []
-
-
-
-[35 <./figures/13aApdxD-10-220-RetPCI.png>]
-
-LaTeX Warning: Text page 36 contains only floats.
-
-
-
-[36 <./figures/13bApdxD-10-220-VolPCI.png>]
-<./figures/14aApdxD-8-180-RetNDC.png, id=962, 803.0pt x 602.25pt>
-File: ./figures/14aApdxD-8-180-RetNDC.png Graphic file (type png)
-<use ./figures/14aApdxD-8-180-RetNDC.png>
-Package pdftex.def Info: ./figures/14aApdxD-8-180-RetNDC.png  used on input line 1403.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1403--1404
-[][] 
- []
-
-<./figures/14bApdxD-8-180-VolNDC.png, id=963, 803.0pt x 602.25pt>
-File: ./figures/14bApdxD-8-180-VolNDC.png Graphic file (type png)
-<use ./figures/14bApdxD-8-180-VolNDC.png>
-Package pdftex.def Info: ./figures/14bApdxD-8-180-VolNDC.png  used on input line 1411.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1411--1412
-[][] 
- []
-
-
-
-[37]
-
-[38]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[39 <./figures/14aApdxD-8-180-RetNDC.png>]
-<./figures/15aApdxD-8-180-RetNtwrk.png, id=980, 803.0pt x 602.25pt>
-File: ./figures/15aApdxD-8-180-RetNtwrk.png Graphic file (type png)
-<use ./figures/15aApdxD-8-180-RetNtwrk.png>
-Package pdftex.def Info: ./figures/15aApdxD-8-180-RetNtwrk.png  used on input line 1422.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/15bApdxD-8-180-VolNtwrk.png, id=981, 803.0pt x 602.25pt>
-File: ./figures/15bApdxD-8-180-VolNtwrk.png Graphic file (type png)
-<use ./figures/15bApdxD-8-180-VolNtwrk.png>
-Package pdftex.def Info: ./figures/15bApdxD-8-180-VolNtwrk.png  used on input line 1426.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1421--1428
-[]$[]$  $[]$ 
- []
-
-
-
-[40 <./figures/14bApdxD-8-180-VolNDC.png>]
-
-[41 <./figures/15aApdxD-8-180-RetNtwrk.png> <./figures/15bApdxD-8-180-VolNtwrk.png>]
-<./figures/16aApdxD-8-180-RetPCI.png, id=995, 803.0pt x 602.25pt>
-File: ./figures/16aApdxD-8-180-RetPCI.png Graphic file (type png)
-<use ./figures/16aApdxD-8-180-RetPCI.png>
-Package pdftex.def Info: ./figures/16aApdxD-8-180-RetPCI.png  used on input line 1441.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1441--1442
-[][] 
- []
-
-<./figures/16bApdxD-8-180-VolPCI.png, id=996, 803.0pt x 602.25pt>
-File: ./figures/16bApdxD-8-180-VolPCI.png Graphic file (type png)
-<use ./figures/16bApdxD-8-180-VolPCI.png>
-Package pdftex.def Info: ./figures/16bApdxD-8-180-VolPCI.png  used on input line 1449.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1449--1450
-[][] 
- []
-
-
-
-[42 <./figures/16aApdxD-8-180-RetPCI.png>]
-
-LaTeX Warning: Text page 43 contains only floats.
-
-
-
-[43 <./figures/16bApdxD-8-180-VolPCI.png>]
-<./figures/17aApdxD-8-200-RetNDC.png, id=1010, 803.0pt x 602.25pt>
-File: ./figures/17aApdxD-8-200-RetNDC.png Graphic file (type png)
-<use ./figures/17aApdxD-8-200-RetNDC.png>
-Package pdftex.def Info: ./figures/17aApdxD-8-200-RetNDC.png  used on input line 1518.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1518--1519
-[][] 
- []
-
-<./figures/17bApdxD-8-200-VolNDC.png, id=1011, 803.0pt x 602.25pt>
-File: ./figures/17bApdxD-8-200-VolNDC.png Graphic file (type png)
-<use ./figures/17bApdxD-8-200-VolNDC.png>
-Package pdftex.def Info: ./figures/17bApdxD-8-200-VolNDC.png  used on input line 1526.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1526--1527
-[][] 
- []
-
-
-
-[44]
-
-[45]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[46 <./figures/17aApdxD-8-200-RetNDC.png>]
-<./figures/18aApdxD-8-200-RetNtwrk.png, id=1027, 803.0pt x 602.25pt>
-File: ./figures/18aApdxD-8-200-RetNtwrk.png Graphic file (type png)
-<use ./figures/18aApdxD-8-200-RetNtwrk.png>
-Package pdftex.def Info: ./figures/18aApdxD-8-200-RetNtwrk.png  used on input line 1537.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/18bApdxD-8-200-VolNtwrk.png, id=1028, 803.0pt x 602.25pt>
-File: ./figures/18bApdxD-8-200-VolNtwrk.png Graphic file (type png)
-<use ./figures/18bApdxD-8-200-VolNtwrk.png>
-Package pdftex.def Info: ./figures/18bApdxD-8-200-VolNtwrk.png  used on input line 1541.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1536--1543
-[]$[]$  $[]$ 
- []
-
-
-
-[47 <./figures/17bApdxD-8-200-VolNDC.png>]
-
-[48 <./figures/18aApdxD-8-200-RetNtwrk.png> <./figures/18bApdxD-8-200-VolNtwrk.png>]
-<./figures/19aApdxD-8-200-RetPCI.png, id=1043, 803.0pt x 602.25pt>
-File: ./figures/19aApdxD-8-200-RetPCI.png Graphic file (type png)
-<use ./figures/19aApdxD-8-200-RetPCI.png>
-Package pdftex.def Info: ./figures/19aApdxD-8-200-RetPCI.png  used on input line 1556.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1556--1557
-[][] 
- []
-
-<./figures/19bApdxD-8-200-VolPCI.png, id=1044, 803.0pt x 602.25pt>
-File: ./figures/19bApdxD-8-200-VolPCI.png Graphic file (type png)
-<use ./figures/19bApdxD-8-200-VolPCI.png>
-Package pdftex.def Info: ./figures/19bApdxD-8-200-VolPCI.png  used on input line 1564.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1564--1565
-[][] 
- []
-
-
-
-[49 <./figures/19aApdxD-8-200-RetPCI.png>]
-
-LaTeX Warning: Text page 50 contains only floats.
-
-
-
-[50 <./figures/19bApdxD-8-200-VolPCI.png>]
-<./figures/20aApdxD-8-220-RetNDC.png, id=1058, 803.0pt x 602.25pt>
-File: ./figures/20aApdxD-8-220-RetNDC.png Graphic file (type png)
-<use ./figures/20aApdxD-8-220-RetNDC.png>
-Package pdftex.def Info: ./figures/20aApdxD-8-220-RetNDC.png  used on input line 1632.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1632--1633
-[][] 
- []
-
-<./figures/20bApdxD-8-220-VolNDC.png, id=1059, 803.0pt x 602.25pt>
-File: ./figures/20bApdxD-8-220-VolNDC.png Graphic file (type png)
-<use ./figures/20bApdxD-8-220-VolNDC.png>
-Package pdftex.def Info: ./figures/20bApdxD-8-220-VolNDC.png  used on input line 1640.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1640--1641
-[][] 
- []
-
-
-
-[51]
-
-[52]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[53 <./figures/20aApdxD-8-220-RetNDC.png>]
-<./figures/21aApdxD-8-220-RetNtwrk.png, id=1075, 803.0pt x 602.25pt>
-File: ./figures/21aApdxD-8-220-RetNtwrk.png Graphic file (type png)
-<use ./figures/21aApdxD-8-220-RetNtwrk.png>
-Package pdftex.def Info: ./figures/21aApdxD-8-220-RetNtwrk.png  used on input line 1651.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/21bApdxD-8-220-VolNtwrk.png, id=1076, 803.0pt x 602.25pt>
-File: ./figures/21bApdxD-8-220-VolNtwrk.png Graphic file (type png)
-<use ./figures/21bApdxD-8-220-VolNtwrk.png>
-Package pdftex.def Info: ./figures/21bApdxD-8-220-VolNtwrk.png  used on input line 1655.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1650--1657
-[]$[]$  $[]$ 
- []
-
-
-
-[54 <./figures/20bApdxD-8-220-VolNDC.png>]
-
-[55 <./figures/21aApdxD-8-220-RetNtwrk.png> <./figures/21bApdxD-8-220-VolNtwrk.png>]
-<./figures/22aApdxD-8-220-RetPCI.png, id=1091, 803.0pt x 602.25pt>
-File: ./figures/22aApdxD-8-220-RetPCI.png Graphic file (type png)
-<use ./figures/22aApdxD-8-220-RetPCI.png>
-Package pdftex.def Info: ./figures/22aApdxD-8-220-RetPCI.png  used on input line 1670.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1670--1671
-[][] 
- []
-
-<./figures/22bApdxD-8-220-VolPCI.png, id=1092, 803.0pt x 602.25pt>
-File: ./figures/22bApdxD-8-220-VolPCI.png Graphic file (type png)
-<use ./figures/22bApdxD-8-220-VolPCI.png>
-Package pdftex.def Info: ./figures/22bApdxD-8-220-VolPCI.png  used on input line 1678.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1678--1679
-[][] 
- []
-
-
-
-[56 <./figures/22aApdxD-8-220-RetPCI.png>]
-
-LaTeX Warning: Text page 57 contains only floats.
-
-
-
-[57 <./figures/22bApdxD-8-220-VolPCI.png>]
-<./figures/23aApdxD-12-180-RetNDC.png, id=1105, 803.0pt x 602.25pt>
-File: ./figures/23aApdxD-12-180-RetNDC.png Graphic file (type png)
-<use ./figures/23aApdxD-12-180-RetNDC.png>
-Package pdftex.def Info: ./figures/23aApdxD-12-180-RetNDC.png  used on input line 1748.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1748--1749
-[][] 
- []
-
-<./figures/23bApdxD-12-180-VolNDC.png, id=1106, 803.0pt x 602.25pt>
-File: ./figures/23bApdxD-12-180-VolNDC.png Graphic file (type png)
-<use ./figures/23bApdxD-12-180-VolNDC.png>
-Package pdftex.def Info: ./figures/23bApdxD-12-180-VolNDC.png  used on input line 1756.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1756--1757
-[][] 
- []
-
-
-
-[58]
-
-[59]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[60 <./figures/23aApdxD-12-180-RetNDC.png>]
-<./figures/24aApdxD-12-180-RetNtwrk.png, id=1122, 803.0pt x 602.25pt>
-File: ./figures/24aApdxD-12-180-RetNtwrk.png Graphic file (type png)
-<use ./figures/24aApdxD-12-180-RetNtwrk.png>
-Package pdftex.def Info: ./figures/24aApdxD-12-180-RetNtwrk.png  used on input line 1767.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/24bApdxD-12-180-VolNtwrk.png, id=1123, 803.0pt x 602.25pt>
-File: ./figures/24bApdxD-12-180-VolNtwrk.png Graphic file (type png)
-<use ./figures/24bApdxD-12-180-VolNtwrk.png>
-Package pdftex.def Info: ./figures/24bApdxD-12-180-VolNtwrk.png  used on input line 1771.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1766--1773
-[]$[]$  $[]$ 
- []
-
-
-
-[61 <./figures/23bApdxD-12-180-VolNDC.png>]
-
-[62 <./figures/24aApdxD-12-180-RetNtwrk.png> <./figures/24bApdxD-12-180-VolNtwrk.png>]
-<./figures/25aApdxD-12-180-RetPCI.png, id=1138, 803.0pt x 602.25pt>
-File: ./figures/25aApdxD-12-180-RetPCI.png Graphic file (type png)
-<use ./figures/25aApdxD-12-180-RetPCI.png>
-Package pdftex.def Info: ./figures/25aApdxD-12-180-RetPCI.png  used on input line 1786.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1786--1787
-[][] 
- []
-
-<./figures/25bApdxD-12-180-VolPCI.png, id=1139, 803.0pt x 602.25pt>
-File: ./figures/25bApdxD-12-180-VolPCI.png Graphic file (type png)
-<use ./figures/25bApdxD-12-180-VolPCI.png>
-Package pdftex.def Info: ./figures/25bApdxD-12-180-VolPCI.png  used on input line 1794.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1794--1795
-[][] 
- []
-
-
-
-[63 <./figures/25aApdxD-12-180-RetPCI.png>]
-
-LaTeX Warning: Text page 64 contains only floats.
-
-
-
-[64 <./figures/25bApdxD-12-180-VolPCI.png>]
-<./figures/26aApdxD-12-200-RetNDC.png, id=1152, 803.0pt x 602.25pt>
-File: ./figures/26aApdxD-12-200-RetNDC.png Graphic file (type png)
-<use ./figures/26aApdxD-12-200-RetNDC.png>
-Package pdftex.def Info: ./figures/26aApdxD-12-200-RetNDC.png  used on input line 1864.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1864--1865
-[][] 
- []
-
-<./figures/26bApdxD-12-200-VolNDC.png, id=1153, 803.0pt x 602.25pt>
-File: ./figures/26bApdxD-12-200-VolNDC.png Graphic file (type png)
-<use ./figures/26bApdxD-12-200-VolNDC.png>
-Package pdftex.def Info: ./figures/26bApdxD-12-200-VolNDC.png  used on input line 1872.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1872--1873
-[][] 
- []
-
-
-
-[65]
-
-[66]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[67 <./figures/26aApdxD-12-200-RetNDC.png>]
-<./figures/27aApdxD-12-200-RetNtwrk.png, id=1170, 803.0pt x 602.25pt>
-File: ./figures/27aApdxD-12-200-RetNtwrk.png Graphic file (type png)
-<use ./figures/27aApdxD-12-200-RetNtwrk.png>
-Package pdftex.def Info: ./figures/27aApdxD-12-200-RetNtwrk.png  used on input line 1883.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/27bApdxD-12-200-VolNtwrk.png, id=1171, 803.0pt x 602.25pt>
-File: ./figures/27bApdxD-12-200-VolNtwrk.png Graphic file (type png)
-<use ./figures/27bApdxD-12-200-VolNtwrk.png>
-Package pdftex.def Info: ./figures/27bApdxD-12-200-VolNtwrk.png  used on input line 1887.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 1882--1889
-[]$[]$  $[]$ 
- []
-
-
-
-[68 <./figures/26bApdxD-12-200-VolNDC.png>]
-
-[69 <./figures/27aApdxD-12-200-RetNtwrk.png> <./figures/27bApdxD-12-200-VolNtwrk.png>]
-<./figures/28aApdxD-12-200-RetPCI.png, id=1185, 803.0pt x 602.25pt>
-File: ./figures/28aApdxD-12-200-RetPCI.png Graphic file (type png)
-<use ./figures/28aApdxD-12-200-RetPCI.png>
-Package pdftex.def Info: ./figures/28aApdxD-12-200-RetPCI.png  used on input line 1902.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 1902--1903
-[][] 
- []
-
-<./figures/28bApdxD-12-200-VolPCI.png, id=1186, 803.0pt x 602.25pt>
-File: ./figures/28bApdxD-12-200-VolPCI.png Graphic file (type png)
-<use ./figures/28bApdxD-12-200-VolPCI.png>
-Package pdftex.def Info: ./figures/28bApdxD-12-200-VolPCI.png  used on input line 1910.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 1910--1911
-[][] 
- []
-
-
-
-[70 <./figures/28aApdxD-12-200-RetPCI.png>]
-
-LaTeX Warning: Text page 71 contains only floats.
-
-
-
-[71 <./figures/28bApdxD-12-200-VolPCI.png>]
-<./figures/29aApdxD-12-220-RetNDC.png, id=1200, 803.0pt x 602.25pt>
-File: ./figures/29aApdxD-12-220-RetNDC.png Graphic file (type png)
-<use ./figures/29aApdxD-12-220-RetNDC.png>
-Package pdftex.def Info: ./figures/29aApdxD-12-220-RetNDC.png  used on input line 1982.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1982--1983
-[][] 
- []
-
-<./figures/29bApdxD-12-220-VolNDC.png, id=1201, 803.0pt x 602.25pt>
-File: ./figures/29bApdxD-12-220-VolNDC.png Graphic file (type png)
-<use ./figures/29bApdxD-12-220-VolNDC.png>
-Package pdftex.def Info: ./figures/29bApdxD-12-220-VolNDC.png  used on input line 1990.
-(pdftex.def)             Requested size: 585.0pt x 438.77502pt.
-
-Overfull \hbox (117.0pt too wide) in paragraph at lines 1990--1991
-[][] 
- []
-
-
-
-[72]
-
-[73]
-Overfull \vbox (28.21944pt too high) has occurred while \output is active []
-
-
-
-[74 <./figures/29aApdxD-12-220-RetNDC.png>]
-<./figures/30aApdxD-12-220-RetNtwrk.png, id=1218, 803.0pt x 602.25pt>
-File: ./figures/30aApdxD-12-220-RetNtwrk.png Graphic file (type png)
-<use ./figures/30aApdxD-12-220-RetNtwrk.png>
-Package pdftex.def Info: ./figures/30aApdxD-12-220-RetNtwrk.png  used on input line 2001.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-<./figures/30bApdxD-12-220-VolNtwrk.png, id=1219, 803.0pt x 602.25pt>
-File: ./figures/30bApdxD-12-220-VolNtwrk.png Graphic file (type png)
-<use ./figures/30bApdxD-12-220-VolNtwrk.png>
-Package pdftex.def Info: ./figures/30bApdxD-12-220-VolNtwrk.png  used on input line 2005.
-(pdftex.def)             Requested size: 374.40143pt x 280.80609pt.
-
-Overfull \hbox (129.02507pt too wide) in paragraph at lines 2000--2007
-[]$[]$  $[]$ 
- []
-
-
-
-[75 <./figures/29bApdxD-12-220-VolNDC.png>]
-
-[76 <./figures/30aApdxD-12-220-RetNtwrk.png> <./figures/30bApdxD-12-220-VolNtwrk.png>]
-<./figures/31aApdxD-12-220-RetPCI.png, id=1233, 803.0pt x 602.25pt>
-File: ./figures/31aApdxD-12-220-RetPCI.png Graphic file (type png)
-<use ./figures/31aApdxD-12-220-RetPCI.png>
-Package pdftex.def Info: ./figures/31aApdxD-12-220-RetPCI.png  used on input line 2020.
-(pdftex.def)             Requested size: 514.80286pt x 386.1279pt.
-
-Overfull \hbox (46.80286pt too wide) in paragraph at lines 2020--2021
-[][] 
- []
-
-<./figures/31bApdxD-12-220-VolPCI.png, id=1234, 803.0pt x 602.25pt>
-File: ./figures/31bApdxD-12-220-VolPCI.png Graphic file (type png)
-<use ./figures/31bApdxD-12-220-VolPCI.png>
-Package pdftex.def Info: ./figures/31bApdxD-12-220-VolPCI.png  used on input line 2028.
-(pdftex.def)             Requested size: 561.59857pt x 421.22292pt.
-
-Overfull \hbox (93.59857pt too wide) in paragraph at lines 2028--2029
-[][] 
- []
-
-
-
-[77 <./figures/31aApdxD-12-220-RetPCI.png>]
-
-LaTeX Warning: Text page 78 contains only floats.
-
-
-
-[78 <./figures/31bApdxD-12-220-VolPCI.png>] (./EUA-Connectedness-no-Author-info.bbl
+[16] (./EUA-Connectedness-no-Author-info.bbl
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 19.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1321,37 +640,38 @@ Underfull \hbox (badness 2165) in paragraph at lines 63--68
 
 
 
-[79
+[17]
 
-]
+[18]
 
-[80]
+[19]
 
-[81]
+[20])
 
-[82])
-
-[83] (./EUA-Connectedness-no-Author-info.aux)
+[21] (./EUA-Connectedness-no-Author-info.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `EUA-Connectedness-no-Author-info.out' has not changed.
-(rerunfilecheck)             Checksum: 696DEA28B222DC173E433A5F5AFD2F53;18658.
+(rerunfilecheck)             Checksum: 5E0F50AE487F6A416DA71F96334CD30B;1841.
  ) 
 Here is how much of TeX's memory you used:
- 14526 strings out of 475172
- 252546 string characters out of 5764709
- 648665 words of memory out of 5000000
- 36967 multiletter control sequences out of 15000+600000
+ 13683 strings out of 475172
+ 225374 string characters out of 5764709
+ 637359 words of memory out of 5000000
+ 36283 multiletter control sequences out of 15000+600000
  606678 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,710b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt8.pfb>
-Output written on EUA-Connectedness-no-Author-info.pdf (83 pages, 1538583 bytes).
+Output written on EUA-Connectedness-no-Author-info.pdf (21 pages, 638372 bytes).
 PDF statistics:
- 1692 PDF objects out of 1728 (max. 8388607)
- 1436 compressed objects within 15 object streams
- 349 named destinations out of 1000 (max. 500000)
- 746 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1056 PDF objects out of 1200 (max. 8388607)
+ 971 compressed objects within 10 object streams
+ 190 named destinations out of 1000 (max. 500000)
+ 134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
