@@ -1,35 +1,7 @@
 ---
 title: "European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets Between 2013 and 2025 and their Potential for Portfolio Diversification"
-author:
-  - name: Carlos Arcila Barrera
-    email: ca577@cantab.ac.uk
-    affiliation: CISL,Sigma
-  - name: Emre Usenmez
-    email: eu229@cam.ac.uk
-    affiliation: Caius
-    correspondingauthor: true
-address:
-  - code: CISL
-    organization: University of Cambridge Institute for Sustainability Leadership
-    addressline: 1 Regent Street
-    city: Cambridge
-    postcode: CB2 1GG
-    country: UK
-  - code: Sigma
-    organization: Sigma Advanced Capital Management
-    addressline: 203 N La Salle Dr
-    city: Chicago
-    state: IL
-    postcode: 60601
-    country: USA
-  - code: Caius
-    organization: Gonville & Caius College, University of Cambridge
-    addressline: Trinity Street
-    postcode: CB2 1TA
-    city: Cambridge
-    country: UK
 abstract: |
-  This paper uses Diebold-Yilmaz model to analyze the return and volatility connectedness between the European carbon market and the financial markets from the commencement of the 3rd phase of the EU emissions trading system in 2013 to the 4th phase until January 2025 in order to ascertain the impact of fixed income, equity, commodities, and energy markets, exogenous shocks, and the recent reforms introduced under the Fit for 55 package and RePowerEU Plan. We examine the static and dynamic characteristics of the connectedness network and find that the return and volatility behavior of the European carbon market are primarily driven by their own fundamental factors. Thus it is largely independent of other financial markets except for coal and natural gas, and except during periods of financial stress where a relatively short-lived increase in the connectedness with other financial markets is observed. With such characteristics, EUAs can offer diversification benefits, especially for non-energy portfolios.
+  This paper uses Diebold-Yilmaz model to analyze the return and volatility connectedness between the European carbon market and the financial markets from the commencement of the 3rd phase of the EU emissions trading system in 2013 to the 4th phase until January 2025 in order to ascertain the impact of fixed income, equity, commodities, and energy markets, as well as exogenous shocks and the recent reforms introduced under the Fit for 55 package and RePowerEU Plan. We examine the static and dynamic characteristics of the connectedness network and find that the return and volatility behavior of the European carbon market are primarily driven by their own fundamental factors. Thus it is largely independent of other financial markets except for coal and natural gas, and except during periods of financial stress where a relatively short-lived increase in the connectedness with other financial markets is observed. With such characteristics, EUAs can offer diversification benefits, especially for non-energy portfolios.
 keywords: 
   - Carbon markets 
   - emissions trading system 
@@ -404,7 +376,7 @@ Various objectives underscore the necessity to tighten the cap, thereby decreasi
 
 On the other hand, we see a stronger connection with the coal and natural gas markets that is more pronounced during exogeneous shocks, though again, short-lived. Nevertheless, it appears that there is a stronger long-term connectedness with these markets - particularly from 2021 onwards - that are lower in magnitude compared to the impacts of exogeneous shocks but longer in duration. These are likely due to various market, regulatory, and policy factors that accelerate the deployment of renewable energy and phasing out of coal. With the introduction of Phase IV, Fit for 55 package, and RePowerEU Plan, there is a drive to change the energy mix which would influence the demand for, and price of, EUAs, which in turn would increase their connectedness. A natural connection with these energy markets exists due to significant participation of power generation in the EU-ETS. Yet the relationship is complex due to fluctuations in natural gas prices that at times makes fuel-switch to coal an attractive proposition, which, in turn, would again impact the demand for, and price of, EUAs. Such multilayered demand dynamics will inevitably engender a longer-lasting linkages with energy markets. As a result, carbon markets would offer diversification benefits that would likely to be more pronounced for non-energy portfolios.
 
-Overall, the results suggest that the return and volatility behavior of EUAs are primarily driven by their own fundamental factors. For investors, it suggests that EUAs could offer potential diversification benefits when included in a portfolio, due to their low linkage and spillover effect with other markets. These diversification benefits would likely to be more acute for non-energy portfolios. By incorporating EUAs, investors would not only increase their likelihood of generating higher returns for a unit of volatility but also by increasing the demand for EUAs, they would accelerate the decarbonization efforts of the EU. We recommend, for future research, investigating the behavior of non-energy and broad market portfolios when carbon is incorporated at various densities in order to empirically ascertain the magnitude of potential diversification benefits this asset class offers.  
+Overall, the results suggest that the return and volatility behavior of EUAs are primarily driven by their own fundamental factors. For investors, it suggests that EUAs could offer potential diversification benefits when included in a portfolio, due to their low linkage and spillover effect with other markets. These diversification benefits would likely to be more acute for non-energy portfolios. By incorporating EUAs, investors would not only increase their likelihood of generating higher returns for a unit of volatility but also by increasing the demand for EUAs, they would accelerate the decarbonization efforts of the EU. We recommend, for future research, investigating the behavior of non-energy and broad market portfolios when carbon is incorporated at various densities in order to empirically ascertain the magnitude of potential diversification benefits this asset class offers.   
 
 
 
