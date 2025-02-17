@@ -1,5 +1,5 @@
 ---
-title: "European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets Between 2013 and 2025 and their Potential for Portfolio Diversification"
+title: "European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets Post-Phase III and their Potential for Portfolio Diversification"
 author:
   - name: Carlos Arcila Barrera
     email: ca577@cantab.ac.uk

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  17 FEB 2025 05:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  17 FEB 2025 05:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1357,13 +1357,13 @@ Package rerunfilecheck Info: File `EUA-Connectedness.out' has not changed.
 Here is how much of TeX's memory you used:
  14535 strings out of 475172
  252191 string characters out of 5764709
- 648709 words of memory out of 5000000
+ 648647 words of memory out of 5000000
  36972 multiletter control sequences out of 15000+600000
  610946 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,695b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt8.pfb>
-Output written on EUA-Connectedness.pdf (83 pages, 1555717 bytes).
+Output written on EUA-Connectedness.pdf (83 pages, 1554822 bytes).
 PDF statistics:
  1700 PDF objects out of 1728 (max. 8388607)
  1442 compressed objects within 15 object streams
