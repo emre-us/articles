@@ -1,6 +1,6 @@
 ---
-title: "APPENDIX to European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between European Union Allowances (EUAs) and Financial Markets Post-Phase III and their Potential for Portfolio Diversification"
-journal: "Journal of Commodity Markets"
+title: "APPENDIX to European Carbon Market Connectedness and Risk Contagion: A Study of Return and Volatility Dynamics Between Post-Phase II European Union Allowances (EUAs) and Financial Markets and their Potential for Portfolio Diversification"
+journal: "Nature Climate Change - initial submission: supplementary information"
 date: "`r Sys.Date()`"
 linenumbers: false
 numbersections: true

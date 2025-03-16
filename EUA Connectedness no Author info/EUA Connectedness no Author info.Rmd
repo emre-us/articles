@@ -7,7 +7,7 @@ keywords:
   - emissions trading system 
   - connectedness measures 
   - risk diversification
-journal: "Journal of Commodity Markets"
+journal: "Nature Climate Change - initial submission"
 date: "`r Sys.Date()`"
 linenumbers: false
 numbersections: true

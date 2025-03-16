@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  17 FEB 2025 06:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.15)  16 MAR 2025 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -355,12 +355,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip58
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 51.
+Package hyperref Info: Option `breaklinks' set `true' on input line 52.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 51.
+(hyperref)                setting the option has no effect on input line 52.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 51.
+Package hyperref Info: Option `colorlinks' set `false' on input line 52.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
@@ -403,30 +403,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks31
 \@floatcapt=\box63
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 68.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 69.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./EUA-Connectedness-no-Author-info.aux)
 \openout1 = `EUA-Connectedness-no-Author-info.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -469,7 +469,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 68.
+Package hyperref Info: Link coloring OFF on input line 69.
 (./EUA-Connectedness-no-Author-info.out) (./EUA-Connectedness-no-Author-info.out)
 \@outlinefile=\write4
 \openout4 = `EUA-Connectedness-no-Author-info.out'.
@@ -477,40 +477,40 @@ Package hyperref Info: Link coloring OFF on input line 68.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 103.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 103.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 103.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 103.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 103.
+(Font)              <8> on input line 104.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 103.
+(Font)              <6> on input line 104.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 103.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 103.
+(Font)              <5> on input line 104.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 103.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104.
 (/Users/emreusenmez/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 106.
+(Font)              <10> on input line 107.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 106.
+(Font)              <7> on input line 107.
 
 
 
@@ -528,17 +528,17 @@ Overfull \hbox (2.22221pt too wide) has occurred while \output is active
 <./figures/1EUAPrice.png, id=389, 432.11438pt x 255.20343pt>
 File: ./figures/1EUAPrice.png Graphic file (type png)
 <use ./figures/1EUAPrice.png>
-Package pdftex.def Info: ./figures/1EUAPrice.png  used on input line 357.
+Package pdftex.def Info: ./figures/1EUAPrice.png  used on input line 358.
 (pdftex.def)             Requested size: 468.0pt x 276.4061pt.
 
 
 [4]
-Overfull \hbox (24.7547pt too wide) in paragraph at lines 395--409
+Overfull \hbox (24.7547pt too wide) in paragraph at lines 396--410
 [][] 
  []
 
 
-Overfull \hbox (21.36565pt too wide) in paragraph at lines 411--425
+Overfull \hbox (21.36565pt too wide) in paragraph at lines 412--426
 [][] 
  []
 
@@ -550,10 +550,10 @@ Overfull \hbox (21.36565pt too wide) in paragraph at lines 411--425
 
 [7]
 
-LaTeX Warning: Reference `apdx:ConnMatrix' on page 8 undefined on input line 577.
+LaTeX Warning: Reference `apdx:ConnMatrix' on page 8 undefined on input line 578.
 
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 598--610
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 599--611
 []$[]$ $[]$ 
  []
 
@@ -563,28 +563,28 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 598--610
 <./figures/2aDynRetTCI.png, id=553, 504.38437pt x 301.8778pt>
 File: ./figures/2aDynRetTCI.png Graphic file (type png)
 <use ./figures/2aDynRetTCI.png>
-Package pdftex.def Info: ./figures/2aDynRetTCI.png  used on input line 661.
+Package pdftex.def Info: ./figures/2aDynRetTCI.png  used on input line 662.
 (pdftex.def)             Requested size: 351.0pt x 210.07854pt.
 <./figures/2bDynVolTCI.png, id=554, 529.22719pt x 297.36093pt>
 File: ./figures/2bDynVolTCI.png Graphic file (type png)
 <use ./figures/2bDynVolTCI.png>
-Package pdftex.def Info: ./figures/2bDynVolTCI.png  used on input line 670.
+Package pdftex.def Info: ./figures/2bDynVolTCI.png  used on input line 671.
 (pdftex.def)             Requested size: 351.0pt x 197.22073pt.
 
 
 [9 <./figures/2aDynRetTCI.png>]
 
-LaTeX Warning: Reference `apdx:NDC' on page 10 undefined on input line 685.
+LaTeX Warning: Reference `apdx:NDC' on page 10 undefined on input line 686.
 
 <./figures/3aDynRetNDC.png, id=564, 646.66594pt x 326.72063pt>
 File: ./figures/3aDynRetNDC.png Graphic file (type png)
 <use ./figures/3aDynRetNDC.png>
-Package pdftex.def Info: ./figures/3aDynRetNDC.png  used on input line 706.
+Package pdftex.def Info: ./figures/3aDynRetNDC.png  used on input line 707.
 (pdftex.def)             Requested size: 351.0pt x 177.33882pt.
 <./figures/3bDynVolNDC.png, id=565, 724.20563pt x 314.67563pt>
 File: ./figures/3bDynVolNDC.png Graphic file (type png)
 <use ./figures/3bDynVolNDC.png>
-Package pdftex.def Info: ./figures/3bDynVolNDC.png  used on input line 715.
+Package pdftex.def Info: ./figures/3bDynVolNDC.png  used on input line 716.
 (pdftex.def)             Requested size: 351.0pt x 152.51665pt.
 
 
@@ -592,12 +592,12 @@ Package pdftex.def Info: ./figures/3bDynVolNDC.png  used on input line 715.
 <./figures/4aStatRetPCI.png, id=577, 420.82219pt x 360.59718pt>
 File: ./figures/4aStatRetPCI.png Graphic file (type png)
 <use ./figures/4aStatRetPCI.png>
-Package pdftex.def Info: ./figures/4aStatRetPCI.png  used on input line 770.
+Package pdftex.def Info: ./figures/4aStatRetPCI.png  used on input line 771.
 (pdftex.def)             Requested size: 280.80286pt x 240.61945pt.
 <./figures/4bStatVolPCI.png, id=578, 420.82219pt x 349.305pt>
 File: ./figures/4bStatVolPCI.png Graphic file (type png)
 <use ./figures/4bStatVolPCI.png>
-Package pdftex.def Info: ./figures/4bStatVolPCI.png  used on input line 779.
+Package pdftex.def Info: ./figures/4bStatVolPCI.png  used on input line 780.
 (pdftex.def)             Requested size: 280.80286pt x 233.0844pt.
 
 
@@ -605,17 +605,17 @@ Package pdftex.def Info: ./figures/4bStatVolPCI.png  used on input line 779.
 
 [12 <./figures/4aStatRetPCI.png> <./figures/4bStatVolPCI.png>]
 
-LaTeX Warning: Reference `apdx:PCI' on page 13 undefined on input line 828.
+LaTeX Warning: Reference `apdx:PCI' on page 13 undefined on input line 829.
 
 <./figures/5aDynRetPCI.png, id=611, 569.12625pt x 257.46187pt>
 File: ./figures/5aDynRetPCI.png Graphic file (type png)
 <use ./figures/5aDynRetPCI.png>
-Package pdftex.def Info: ./figures/5aDynRetPCI.png  used on input line 840.
+Package pdftex.def Info: ./figures/5aDynRetPCI.png  used on input line 841.
 (pdftex.def)             Requested size: 421.19714pt x 190.55022pt.
 <./figures/5bDynVolPCI.png, id=612, 450.9347pt x 199.49532pt>
 File: ./figures/5bDynVolPCI.png Graphic file (type png)
 <use ./figures/5bDynVolPCI.png>
-Package pdftex.def Info: ./figures/5bDynVolPCI.png  used on input line 849.
+Package pdftex.def Info: ./figures/5bDynVolPCI.png  used on input line 850.
 (pdftex.def)             Requested size: 421.19714pt x 186.34755pt.
 
 
@@ -623,7 +623,7 @@ Package pdftex.def Info: ./figures/5bDynVolPCI.png  used on input line 849.
 
 [14 <./figures/5bDynVolPCI.png>]
 
-LaTeX Warning: Reference `apdx:Robust' on page 15 undefined on input line 937.
+LaTeX Warning: Reference `apdx:Robust' on page 15 undefined on input line 938.
 
 
 
@@ -662,13 +662,13 @@ Package rerunfilecheck Info: File `EUA-Connectedness-no-Author-info.out' has not
 Here is how much of TeX's memory you used:
  13683 strings out of 475172
  225374 string characters out of 5764709
- 637359 words of memory out of 5000000
+ 638373 words of memory out of 5000000
  36283 multiletter control sequences out of 15000+600000
  606678 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,710b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri8.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></Users/emreusenmez/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt8.pfb>
-Output written on EUA-Connectedness-no-Author-info.pdf (21 pages, 638372 bytes).
+Output written on EUA-Connectedness-no-Author-info.pdf (21 pages, 638071 bytes).
 PDF statistics:
  1056 PDF objects out of 1200 (max. 8388607)
  971 compressed objects within 10 object streams
